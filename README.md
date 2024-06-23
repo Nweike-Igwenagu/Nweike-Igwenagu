@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nweike-Igwenagu
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Chinweike Igwenagu
+- 👀 I’m a full stack web developer
+- 🌱 I’m good at JavaScript and Django
+- 💞️ I’m looking to collaborate on eeb development projects
 - 📫 How to reach me +2349135304466
   
 
