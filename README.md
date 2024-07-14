@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chinweike Igwenagu
-- 👀 I’m a full stack web developer
-- 🌱 I’m good at JavaScript and Django
-- 💞️ I’m looking to collaborate on eeb development projects
+- 👀 I’m a full stack Web developer
+- 🌱 I’m good at Front-end and Back-end
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me +2349135304466
   
 
