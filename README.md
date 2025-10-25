@@ -1,8 +1,27 @@
-- 👋 Hi, I’m Chinweike Igwenagu
-- 👀 I’m a full stack Web developer
-- 🌱 I’m good at Front-end and Back-end
-- 💞️ I’m looking to collaborate on Web development projects
-- 📫 How to reach me +2349135304466
+# 👋 Hi, I'm Igwenagu Chinweike Obiora
+
+I'm a passionate **Full Stack Developer** who loves building scalable apps and solving real problems through code.
+
+### 🚀 Tech Stack
+- **Backend:** Django, FastAPI, Spring Boot (Java)  
+- **Frontend:** React (with TypeScript), Angular  
+- **Database:** PostgreSQL, MySQL  
+- **Tools & Others:** Docker, Django Tenants, REST APIs, Git  
+
+### 💡 About Me
+- I enjoy creating clean, maintainable projects.  
+- Always learning and improving — code is my daily workout.  
+- A rival of ChatGPT 😎  
+
+### 📫 Let's Connect
+- [GitHub](https://github.com/nweike-igwenagu)  
+- [LinkedIn](https://linkedin.com/in/chinweike-igwenagu-878128327)  
+- [Email](mailto:chinweikeigwenagu@gmail.com)
+
+---
+
+> “Great things will continue to happen in their own accord for me.” ✨
+
   
 
 <!---
